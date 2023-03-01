@@ -1,4 +1,4 @@
-package 运算操作;
+package 运算操作.ArithmeticoperatorDemo;
 
 public class ArithmeticoperatorDemo2 {
     public static void main(String[] args){

@@ -1,4 +1,4 @@
-package 运算操作;
+package 运算操作.TernaryoperatorDemo;
 
 public class TernaryoperatorDemo1 {
     public static void main(String[] args){

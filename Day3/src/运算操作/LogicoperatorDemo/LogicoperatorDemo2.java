@@ -1,4 +1,4 @@
-package 运算操作;
+package 运算操作.LogicoperatorDemo;
 
 public class LogicoperatorDemo2 {
     public static void main(String[] args) {

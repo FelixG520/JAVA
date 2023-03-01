@@ -1,4 +1,4 @@
-package 运算操作;
+package 运算操作.AssigningoperatorDemo;
 
 public class AssigningoperatorDemo1 {
     public static void main(String[] args){
